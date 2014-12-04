@@ -1,5 +1,6 @@
 # Footer navigation links
 
+<<<<<<< HEAD
 - title: Home
   url: /
 
@@ -11,3 +12,7 @@
 
 - title: Terms
   url: /terms/
+=======
+- title:
+  url:
+>>>>>>> master

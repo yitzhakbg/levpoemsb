@@ -1,5 +1,6 @@
 # Site navigation links
 
+<<<<<<< HEAD
 - title: Getting Started
   url: /getting-started/
   excerpt: "Everything you need to know to get started with Skinny Bones and Jekyll."
@@ -19,3 +20,9 @@
   url: /about/
   excerpt: "All about Skinny Bones for Jekyll."
   image: 400x250.gif
+=======
+- title:
+  url:
+  excerpt:
+  image:
+>>>>>>> master
